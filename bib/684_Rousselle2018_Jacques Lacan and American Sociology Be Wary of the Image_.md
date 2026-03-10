@@ -36,13 +36,9 @@ priority:: 4
 ### コメント
 - 
 
-https://www.perplexity.ai/search/konoben-no356zhang-nonei-rong-pau39lB8TsGkyR28xyKmYQ
 
-この本の資料を確認しました。Duane RousselleによるJacques Lacan and American Sociology: Be Wary of the Imageです。3章、5章、6章の内容を議論の論述に即して説明します。 [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/145110125/51acafa3-dac6-4a8a-ae68-116c179cda96/paste.txt)
 
-## 第3章「Perverse America」
 
-第3章は、アメリカ社会における「アメリカの知恵（American Wisdom）」という独特の言説構造を分析しています。 [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/145110125/51acafa3-dac6-4a8a-ae68-116c179cda96/paste.txt)
 
 ### アメリカの知恵の構造
 

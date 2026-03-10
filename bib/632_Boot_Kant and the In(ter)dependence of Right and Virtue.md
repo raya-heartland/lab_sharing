@@ -37,27 +37,14 @@ priority:: 6
 - 
 
 
-https://www.perplexity.ai/search/konolun-wen-nonei-rong-wo-yi-l-RLXIgirmSkWk.yRLw3aRTw
 
-この論文は、カントにおける「権利（Recht）」と「徳（Tugend）」の関係を、テクストの議論展開に沿って再構成しながら、①『法論・徳論（道徳形而上学）』に見られる両者の「厳密な分離」と、②『永遠平和のために』等で示される両者の「相互依存」の構図を接続し、カントがオニールの描く「徳を重視するカント」とも、現代リベラルの「制度だけを重視する立場」とも異なる中間的立場にいることを主張するものです。 [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/145110125/12b186db-661f-4258-b02c-91d9942ea399/paste.txt)
 
-以下、論述の流れに即して区切って説明します。
 
-***
 
-## I　問題の枠組み：オニール批判と問いの設定
 
-冒頭でブートは、オノラ・オニールによる次のような診断を紹介します。 [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/145110125/12b186db-661f-4258-b02c-91d9942ea399/paste.txt)
-- 現代のリベラル派は「善き性格」や「美徳」について何も語らず、ひたすら正義の制度設計にだけ関心を向けている。  
-- これに対してオニールは、ルソーやカントは「正義と徳の相互依存」を主張し、市民的徳が自由な制度維持の条件だと考えていたと解釈する。 [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/145110125/12b186db-661f-4258-b02c-91d9942ea399/paste.txt)
 
-本論文の核心的問題設定は、「オニールが描くように、カントは本当に『正義と徳の相互依存』を主張したのか」という問いです。 [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/145110125/12b186db-661f-4258-b02c-91d9942ea399/paste.txt)
-ブートは、少なくとも『法論・徳論』の範囲では、カントはむしろ現代リベラルに近く、「法の正しさ」にのみ関心があり、市民の善良さを要件としていないように見える、と指摘します。 [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/145110125/12b186db-661f-4258-b02c-91d9942ea399/paste.txt)
-しかし一方で、『永遠平和のために』などの政治哲学テクストを読むと、カントは法と徳の相互依存を認めているとも言えそうであり、その緊張を解きほぐすことが本稿の課題とされます。 [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/145110125/12b186db-661f-4258-b02c-91d9942ea399/paste.txt)
 
-***
 
-## II　『法論・徳論』における権利と徳の「厳密な分離」
 
 ### II.i　合法性と道徳性：義務にかなう行為／義務からの行為
 

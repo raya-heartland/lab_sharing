@@ -25,8 +25,6 @@ priority:: 12
 ### リンク・目次
 - Paperless: [WebUIで開く](http://100.121.108.24:8000/documents/670/details)
 - [[ppl_670.pdf]]
-    - 目次　([[ppl_670.pdf#page=5&selection=53,1,53,2&color=yellow|ppl_670, p.5]])
-    - 「精神病のあらゆる可能な治療に対する前提的問題について」([[ppl_670.pdf#page=287&selection=2,0,2,26&color=yellow|ppl_670, p.287]])
         - 
 
 ### 文脈

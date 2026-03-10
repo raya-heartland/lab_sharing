@@ -26,9 +26,6 @@ priority:: 10
 - [[notes_733|note of hikari]]
 
 ### 文脈
-- ターナー講義（Tanner Lectures on Human Values）に基づくKorsgaardの道徳規範性論の主著。
-- **本書がまさに「彼らのやり取り」の現場**: Korsgaard の4講義 + G.A. Cohen・Raymond Geuss・Thomas Nagel・Bernard Williams による応答 + Korsgaard の返論、という構成。
-- Rayaさんのプロジェクトとの直接的関連度 **最高**。
 
 ### 目次構成
 **KORSGAARD'S LECTURES**
@@ -74,6 +71,5 @@ Rayaさんのプロジェクトにとって極めて重要な箇所：
 - Nagel の「客観性」批判：構成主義 vs. 実在主義の対立
 
 ### コメント
-- priority 10：Rayaさんのプロジェクトの核心的参照文献（Korsgaardの主著、且つWilliams・Nagel・Levinasとの接点が明示されている）
-- Williams の p.216 のLevinasへの言及は第一章・第四章の執筆で直接引用可能
-- RAG 埋め込み未実施 → `ingest_b.py --id 733 --skip-a` で実行可能
+コメント
+- 

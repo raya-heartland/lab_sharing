@@ -25,13 +25,6 @@ priority:: 6
 ### リンク・目次
 - Paperless: [WebUIで開く](http://100.121.108.24:8000/documents/650/details)
 - [[ppl_650.pdf]]
-    - [[🎓2026-02：バーナード・ウィリアムズのカント批判]]（To Whom等）を意識しながら、カントの議論の射程をすでに道徳意識をもっている人間に限定する
-    - To whom：「This gives us a preliminary answer to a set of questions Bernard Williams once raised in the context of asking ‘what a justification of ethical life should try to do’.32 In Williams’s view, we should ask any attempted justification the following three questions: ‘To whom is it addressed? From where? Against what?’3」([[ppl_650.pdf#page=21&selection=36,0,39,70&color=yellow|ppl_650, p.21]])
-        - 懐疑論者を対象にしていない：「he is not addressing the moral skeptic per se. He is not taking up the ‘adversarial stance’ and attempting to deploy an argument the skeptic about morality must accept on pain of contradiction.」([[ppl_650.pdf#page=21&selection=41,21,43,52&color=yellow|ppl_650, p.21]])
-    - Agains What
-        - 「絶望（Verzweiflung）」の回避が目標：「he answer changes depending on what text we have before us, the Groundwork or the second Critique, but what they share in common, on my reading, is an effort to rescue common human reason from the conflict it experiences between the claims of morality, on the one hand, and the claims of happiness, on the other. This is not a mere speculative problem of ‘doubt’ (Zweifel), such as the kind pure reason generates when it oversteps the field of experience, but a practical conflict at the heart of common moral consciousness—in a word, a problem of ‘despair’ (Verzweiflung).35」([[ppl_650.pdf#page=22&selection=11,61,29,4&color=yellow|ppl_650, p.22]])
-        - 絶望という言葉は、懐疑（Zweifel）との対比でウェアやほかのカント学者が使っている言葉で、カントにソースはない
-    - [[2026-02-10_AI：Wareはウィリアムズの批判を回避できているか]]
 ### 文脈
 - 
 

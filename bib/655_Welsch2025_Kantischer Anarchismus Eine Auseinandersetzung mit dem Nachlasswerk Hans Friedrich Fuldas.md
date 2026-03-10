@@ -27,10 +27,6 @@ priority:: 6
 ### リンク・目次
 - Paperless: [WebUIで開く](http://100.121.108.24:8000/documents/655/details)
 - [[ppl_655.pdf]]
-    - 「In der Befolgung des Postulats des öffentlichen Rechts muss der Kantische Bau in der historisch vorliegenden Fassung jederzeit abgerissen werden können, etwa wenn sich in der Überprüfung der im Kant-Text vorgetragenen Gründe herausstellt, dass diese nicht mehr tragfähig sind.」([[ppl_655.pdf#page=29&selection=31,31,35,58&color=yellow|ppl_655, p.28]])
-        - 公法の要請（命題）に従うという観点からすれば、カントの構築物（体系）は、歴史的に与えられたその姿のままでは、いつでも取り壊し可能でなければならない。つまり、カントのテキストに示された根拠を検討した結果、それらがもはや妥当でないことが明らかになった場合には、その体系は維持されるべきではないということである。
-    - 「Dort erschließe ich, wie in der Einleitung bereits vorweggenommen, auf der Basis von Fuldas Kant-Interpretation der MenschenrechteAbhandlung das ›Staatsrecht‹ erstmals als Entwicklungsgang der praktischen Erkenntnis metaphysischer Anfangsgründe des Staatsrechts im Sinn von Anfangsgründen der Volkssouveränität. Dabei handelt es sich um eine Fortsetzungsarbeit des Kant-Projekts der Menschenrechte-Abhandlung, und auch Fulda selbst sah »seine eigene Forschung« darin »fortgesetzt«. 136 」([[ppl_655.pdf#page=61&selection=8,58,23,1&color=yellow|ppl_655, p.60]])
-        - ここで私は、序論ですでに予告したように、フルダによるカントの「人権論」の解釈に基づき、『国家法』を初めて、国家法の形而上学的根本原理の実践的認識の発展過程、すなわち国民主権の根本原理の発展過程として解釈する。これはカントの「人権論」プロジェクトの継続作業にあたるものであり、フルダ自身も「自らの研究」をその中に「継承されている」と見ていた。
 
 ### 文脈
 - 

@@ -25,10 +25,6 @@ priority:: 7
 ### リンク・目次
 - Paperless: [WebUIで開く](http://100.121.108.24:8000/documents/671/details)
 - [[ppl_671.pdf]]
-    - 「Das menshliche Subjekt kann sich  als selbstverpflichtend und selbstnötigend nur begreifen, wenn es sich »unter doppeltem respectu« betrachtet (18,406) und die Selbstverpflichtung als intrasubjektive Relation zwischen dem Vernunftwesen Mensch als auctor obligationis und dem Sinnenwesen Mensch als subjectum obligationis deutet. Wird diese intrasubjektive Relation in eine intersubjektive Relation transformiert, dann verwandelt sich die innere Gesetzgebung in eine äußere, die Selbstverpflichtung, die obligatio ethica in ein Rechts- oder Fremdverpflichtungsverhältnis. Im rechtlichen Verpflichtungsverhältnis begegnet dem Verpflichteten die eigene Vernunft in Gestalt des ihn verpflichtenden Anderen.」（[[ppl_671.pdf#page=69|ppl_671, p.69]]）
-    - Die Inbesitznahme des mir ursprünglich-rechtlich zustehenden Platzes beginnt nicht erst als Fremdbesetzung, sie beginnt mit der Geburt. Das Geburtsereignis ist Besitznehmung, das Geborenwerden besitztheoretisch als empirische Apprehension interpretierbar. Der menschliche Eintritt in die Welt ist Rechtsausübung, das für die menschliche Freiheit schlechthin Skandalöse, die Unverfügbarkeit des eigenen Anfangs, wird so selbst unter Freiheitsgesetze gestellt. Dasjenige, was nur widerfahren kann, bekommt die Bedeutung der Realisierung des angeborenen Rechts »zu jedem Platze« auf der Erde (23,320), und die Geburt erscheint gleichsam als archetypischer Besitzschematismus."[[ppl_671.pdf#page=106|ppl_671, 211]]
-    - 自然法的国家＝私法、公法は必ずしも必要ないとケアスティング自身が言っているように読める
-        - [[🎓2026-02：Kersting2007_284-290]]
 
 ### 文脈
 - 

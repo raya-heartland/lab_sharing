@@ -23,7 +23,6 @@ priority:: 6
     - 
 
 ### 文脈
-- [[677_Spafford2023_SOCIAL ANARCHISM AND THE REJECTION OF MORAL TYRANNY]]への書評
 
 
 ### paperless要約

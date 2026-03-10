@@ -25,7 +25,6 @@ priority::
 ### リンク・目次
 - Paperless: [WebUIで開く](http://100.121.108.24:8000/documents/749/details)
 - [[ppl_749.pdf]]
-    - [[742_Wang2026_Examing the Blackburn-McDowell Debate on Metaethics through the Lens of the Moral Problem]]（王さんの修論）から
 
 ### 文脈
 - 

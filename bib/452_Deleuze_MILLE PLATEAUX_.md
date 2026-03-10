@@ -25,7 +25,6 @@ priority:: 12
 ### リンク・目次
 - Paperless: [WebUIで開く](http://100.121.108.24:8000/documents/452/details)
 - [[ppl_452.pdf]]
-    - 「C'est pourquoi Pasolini montrait que l'essen tiel, précisément dans le discours indirect libre, n'était ni dans une langue A, ni dans une langue B, mais « dans une langue X, qui n'est autre que la langue A en train de devenir réellement une langue B 35 ». Il y a une figure universelle de la conscience minoritaire, comme devenir de tout le monde, et c'est ce devenir qui est création. Ce n'est pas en acquérant la majorité qu'on y atteint. Cette figure, c'est précisément la variation continue, comme une amplitude qui ne cesse de déborder par excès et par défaut le seuil représentatif de l'étalon majoritaire. En dressant la figure d'une conscience universelle minoritaire, on s'adresse à des puissances de devenir qui sont d'un autre domaine que celui du Pouvoir et de la Domination. C'est la variation continue qui constitue le devenir minoritaire de tout le monde, par oppo sition au Fait majoritaire de Personne. Le devenir minoritaire comme figure universelle de la conscience s'appelle autonomie. 」([[ppl_452.pdf#page=133&selection=477,0,794,2&color=yellow|ppl_452, p.133]])
 
 
 ### 文脈

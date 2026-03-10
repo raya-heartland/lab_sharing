@@ -9,9 +9,7 @@ priority:: 12
 
 ### リンク・目次
 - Paperless: [WebUIで開く](http://100.121.108.24:8000/documents/40/details)
-- 引用形式（BibTeX）：[@Lacan1966]
 - [[ppl_40.pdf]]
-    - 「D'und question préliminaire à tout traitement possible de la psychose」([[ppl_40.pdf#page=515&selection=0,0,4,38&color=yellow|ppl_40, p.515]])
 
 ### 文脈
 - 
