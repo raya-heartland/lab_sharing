@@ -16,6 +16,7 @@ edition:
 booktitle: The Cambridge Companion to Ockham*
 editor: Spade, Paul Vincent*
 tags_: #PaperlessIndex, #ppl_note, #llm_v3, #Ockham_W, #operation, #person, #Research
+rag_embedded:: 2026-03-11
 created: 1988-03-01
 citekey: @TODO+YEAR
 page_offset: 
