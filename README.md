@@ -197,6 +197,130 @@ python3 ocr.py --sourceimg 画像ファイル.jpg --output 出力フォルダ
 
 ---
 
+## ⑤ AI エージェント・開発者向け API リファレンス（オプション）
+
+Tailscale VPN 内からプログラムで文献を検索・取得したい場合の情報です。
+
+---
+
+### RAG 検索 API（`http://100.65.111.66:8100`）
+
+#### `GET /search` — 意味検索
+
+```
+GET http://100.65.111.66:8100/search?q={クエリ}&limit={件数}&lang={言語}&weight={true/false}
+```
+
+| パラメータ | 型 | 必須 | 説明 |
+|---|---|---|---|
+| `q` | string | ✅ | 検索クエリ（自然言語、日英両対応） |
+| `limit` | int | — | 返却件数（1〜20、デフォルト: 5） |
+| `lang` | string | — | `ja` / `en` / 省略=全言語 |
+| `weight` | bool | — | priority 重み付け（デフォルト: `true`） |
+
+**レスポンス例（JSON）：**
+
+```json
+{
+  "query": "カントの定言命法",
+  "count": 5,
+  "results": [
+    {
+      "score": 0.7823,
+      "weighted_score": 0.7823,
+      "priority": 12,
+      "doc_id": 791,
+      "path": "araya/Paperless_content_791.md",
+      "chunk_index": 163,
+      "lang": "de",
+      "text": "Handle nur nach derjenigen Maxime..."
+    }
+  ]
+}
+```
+
+#### `GET /download` — 結果をマークダウンファイルとして取得
+
+```
+GET http://100.65.111.66:8100/download?q={クエリ}&limit=5&pages=false
+```
+
+`pages=true` にすると PDF からページ番号を検索します（遅い）。  
+`Content-Disposition: attachment` でマークダウンファイルが返ります。
+
+#### `GET /health` — ヘルスチェック
+
+```
+GET http://100.65.111.66:8100/health
+→ {"status": "ok", "time": "2026-03-11T20:00:00"}
+```
+
+---
+
+### Paperless API（`http://100.121.108.24:8000`）
+
+認証は **Token 認証**です。トークンは荒谷からお伝えします。
+
+```
+Authorization: Token <YOUR_TOKEN>
+```
+
+#### 主なエンドポイント
+
+| 操作 | エンドポイント |
+|---|---|
+| 文献一覧 | `GET /api/documents/` |
+| 文献の詳細・本文テキスト | `GET /api/documents/{id}/` |
+| 文献 PDF のダウンロード | `GET /api/documents/{id}/download/` |
+| 文献のアップロード | `POST /api/documents/post_document/` |
+| タグ一覧 | `GET /api/tags/` |
+| 全文検索 | `GET /api/documents/?query={キーワード}` |
+
+**使用例（curl）：**
+
+```bash
+# 文献テキストの取得
+curl -H "Authorization: Token <TOKEN>" \
+     http://100.121.108.24:8000/api/documents/791/
+
+# PDF ダウンロード
+curl -H "Authorization: Token <TOKEN>" \
+     http://100.121.108.24:8000/api/documents/791/download/ \
+     -o output.pdf
+
+# キーワード全文検索
+curl -H "Authorization: Token <TOKEN>" \
+     "http://100.121.108.24:8000/api/documents/?query=定言命法"
+```
+
+**使用例（Python）：**
+
+```python
+import requests
+
+TOKEN = "<YOUR_TOKEN>"
+BASE  = "http://100.121.108.24:8000"
+headers = {"Authorization": f"Token {TOKEN}"}
+
+# 意味検索（RAG API）
+resp = requests.get("http://100.65.111.66:8100/search",
+                    params={"q": "カントの自律", "limit": 5, "lang": "ja"})
+results = resp.json()["results"]
+
+# 該当 PDF を Paperless から取得
+for r in results:
+    if r["doc_id"]:
+        pdf = requests.get(f"{BASE}/api/documents/{r['doc_id']}/download/",
+                           headers=headers)
+        with open(f"doc_{r['doc_id']}.pdf", "wb") as f:
+            f.write(pdf.content)
+```
+
+> ⚠️ RAG 検索 API は 1 日 200 回/IP の制限があります。  
+> ⚠️ Paperless API トークンは個人に紐づいています。第三者と共有しないでください。
+
+---
+
 ## ❓ うまくいかないとき
 
 | 症状 | 確認すること |
