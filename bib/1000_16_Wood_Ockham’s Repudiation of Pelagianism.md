@@ -1,3 +1,4 @@
+
 ---
 paperless_id: 1000
 chapter: 16
@@ -20,7 +21,7 @@ rag_embedded::
 created: 
 citekey: @Wood1999
 page_offset: 18
-priority:: ---
+priority:: 5
 
 ---
 

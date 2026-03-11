@@ -3,9 +3,9 @@
 paperless_id: 1000
 type: book
 author: 
-title: オッカム入門：ケンブリッジ哲学伴侶*
-year: 1999*
-publisher: Cambridge University Press*
+title: The Cambridge Companion to Ockham
+year: 1999
+publisher: Cambridge University Press
 translator: 
 language: en
 journal: 
@@ -13,7 +13,7 @@ volume:
 number: 
 pages: 
 edition: 
-booktitle: The Cambridge Companion to Ockham*
+booktitle: The Cambridge Companion to Ockham
 editor: Spade, Paul Vincent*
 tags_: #PaperlessIndex, #ppl_note, #llm_v3, #Ockham_W, #operation, #person, #Research
 rag_embedded:: 2026-03-11
