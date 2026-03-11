@@ -16,6 +16,7 @@ edition:
 booktitle: 
 editor: 
 tags_: #PaperlessIndex, #ppl_note, #llm_v3, #operation, #person, #Research, #Thomas_Aquinas
+rag_embedded:: 2026-03-11
 created: 2020-11-15
 citekey: @Mullins2022*
 page_offset: 
