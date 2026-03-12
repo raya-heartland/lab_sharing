@@ -16,6 +16,7 @@ edition:
 booktitle: 
 editor: Baur, L.; Koch, J.*
 tags_: #PaperlessIndex, #ppl_note, #llm_v3, #operation
+rag_embedded:: 2026-03-12
 created: 2026-03-11
 citekey: @Aquino1933*
 page_offset: 

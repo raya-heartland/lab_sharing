@@ -16,6 +16,7 @@ edition:
 booktitle: 
 editor: 
 tags_: #PaperlessIndex, #ppl_note, #llm_v3, #operation
+rag_embedded:: 2026-03-12
 created: 2026-03-11
 citekey: @TODO+YEAR
 page_offset: 
