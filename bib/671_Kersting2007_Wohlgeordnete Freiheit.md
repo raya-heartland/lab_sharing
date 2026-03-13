@@ -16,6 +16,7 @@ edition: 3
 booktitle: 
 editor: 
 tags_: #PaperlessIndex, #ppl_note, #Kant_Immanuel, 
+rag_embedded:: 2026-03-12
 created: 2007-04-01
 citekey: @Kersting2007
 priority:: 7
