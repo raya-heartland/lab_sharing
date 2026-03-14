@@ -16,6 +16,7 @@ edition:
 booktitle: 
 editor: 
 tags_: #PaperlessIndex, #ppl_note, #Kant, #llm_target, #operation, #philosophy, #Plato
+rag_embedded:: 2026-03-14
 created: 2018-01-14
 citekey: @TODO+YEAR
 page_offset: 
