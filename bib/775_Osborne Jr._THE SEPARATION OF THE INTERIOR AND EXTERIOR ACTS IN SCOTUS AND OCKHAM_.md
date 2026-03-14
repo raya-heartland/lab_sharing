@@ -16,6 +16,7 @@ edition:
 booktitle: 
 editor: 
 tags_: #PaperlessIndex, #ppl_note, #llm_v3, #operation, #person, #Research, #Scotus_Duns
+rag_embedded:: 2026-03-14
 created: 2026-03-01
 citekey: @Osborne Jr.2007*
 page_offset: 
