@@ -16,6 +16,7 @@ edition:
 booktitle: 
 editor: 
 tags_: #PaperlessIndex, #ppl_note, #llm_v3, #operation
+rag_embedded:: 2026-03-14
 created: 2021-04-20
 citekey: @Idziak2021*
 page_offset: 
