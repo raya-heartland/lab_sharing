@@ -16,6 +16,7 @@ edition:
 booktitle: 
 editor: 
 tags_: #PaperlessIndex, #ppl_note, #Kant, #llm_v3, #Natural_Law, #Nominalism, #Ockham, #operation, #Thomism, #Voluntarism
+rag_embedded:: 2026-03-15
 created: 1925-03-01
 citekey: @Rommen1998*
 page_offset: 
